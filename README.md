@@ -1,8 +1,8 @@
-# 🌸 **AlgoDiary** 📔
+# **AlgoDiary** 📔
 
 > ✨ *A daily journal of algorithms — where every solved problem becomes a story.*
 > 
-> 💖 Tracking my journey through entity["software","LeetCode",1] while nurturing a consistent streak on entity["software","GitHub",1]🌱  
+> 💖 Tracking my journey through Github["software","LeetCode",1]while nurturing a consistent streak on Leetcode["software","GitHub",1]🌱  
 > 📅 One problem, one commit, every day — building habits and dreams line by line ✨
 
 ---

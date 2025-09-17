@@ -1,10 +1,8 @@
-#  **AlgoDiary** 📔
-
-
+# 🌸 **AlgoDiary** 📔
 
 > ✨ *A daily journal of algorithms — where every solved problem becomes a story.*
 > 
-> 💖 Tracking my journey through entity["software","LeetCode",1] while nurturing a consistent streak on entity["software","GitHub",1] 🌱  
+> 💖 Tracking my journey through entity["software","LeetCode",1] while nurturing a consistent streak on entity["software","GitHub",1]🌱  
 > 📅 One problem, one commit, every day — building habits and dreams line by line ✨
 
 ---
@@ -84,7 +82,7 @@ AlgoDiary/
 
 ## 💖 Connect With Me
 If you’re also on this journey, let’s grow together 🌱  
-- 🧠 LeetCode Profile — *Coming Soon*
-- 💻 GitHub Profile — *[Your GitHub Link](#)*
+- 🧠 [LeetCode Profile](https://leetcode.com/u/Devnic/)  
+- 💻 [GitHub Profile](#)
 
 > 💌 *Let’s make consistency beautiful — one commit at a time.*

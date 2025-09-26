@@ -8,7 +8,7 @@
 ---
  
 ## 💫 My Mission
-> 🌟 Strengthen my problem-solving powers ✨  
+> 🌟 Strengthen my problem-solving powers ✨   
 > 🌙 Stay consistent and build discipline 💪  
 > 🌸 Make coding feel magical & personal 💌
  
